@@ -1,0 +1,254 @@
+digraph {
+	Mission__Impossible_II [label="Mission__Impossible_II
+{'Title': 'Mission: Impossible II', 'Worldwide Earnings': 546388108, 'Domestic Earnings': 215409889, 'Domestic Percent Earnings': 39.4, 'Foreign Earnings': 330978219, 'Foreign Percent Earnings': 60.6, 'Year': 2000}"]
+	Mission__Impossible_II -> Dinosaur
+	Dinosaur [label="Dinosaur
+{'Title': 'Dinosaur', 'Worldwide Earnings': 349822765, 'Domestic Earnings': 137748063, 'Domestic Percent Earnings': 39.4, 'Foreign Earnings': 212074702, 'Foreign Percent Earnings': 60.6, 'Year': 2000}"]
+	Dinosaur -> Big_Momma_s_House
+	Big_Momma_s_House [label="Big_Momma_s_House
+{'Title': \"Big Momma's House\", 'Worldwide Earnings': 173959438, 'Domestic Earnings': 117559438, 'Domestic Percent Earnings': 67.6, 'Foreign Earnings': 56400000, 'Foreign Percent Earnings': 32.4, 'Year': 2000}"]
+	Big_Momma_s_House -> Anatomy
+	Anatomy [label="Anatomy
+{'Title': 'Anatomy', 'Worldwide Earnings': 10501958, 'Domestic Earnings': 9660, 'Domestic Percent Earnings': 0.1, 'Foreign Earnings': 10492298, 'Foreign Percent Earnings': 99.9, 'Year': 2000}"]
+	Anatomy -> About_a_Boy
+	About_a_Boy [label="About_a_Boy
+{'Title': 'About a Boy', 'Worldwide Earnings': 130549455, 'Domestic Earnings': 41385278, 'Domestic Percent Earnings': 31.7, 'Foreign Earnings': 89164177, 'Foreign Percent Earnings': 68.3, 'Year': 2002}"]
+	About_a_Boy -> A_Beautiful_Mind
+	A_Beautiful_Mind [label="A_Beautiful_Mind
+{'Title': 'A Beautiful Mind', 'Worldwide Earnings': 313542341, 'Domestic Earnings': 170742341, 'Domestic Percent Earnings': 54.5, 'Foreign Earnings': 142800000, 'Foreign Percent Earnings': 45.5, 'Year': 2001}"]
+	A_Beautiful_Mind -> "28_Days"
+	A_Beautiful_Mind -> A_Mighty_Wind
+	About_a_Boy -> Almost_Famous
+	Almost_Famous [label="Almost_Famous
+{'Title': 'Almost Famous', 'Worldwide Earnings': 47383689, 'Domestic Earnings': 32534850, 'Domestic Percent Earnings': 68.7, 'Foreign Earnings': 14848839, 'Foreign Percent Earnings': 31.3, 'Year': 2000}"]
+	Almost_Famous -> Agent_Cody_Banks
+	Almost_Famous -> "Always__Sunset_on_Third_Street..."
+	Anatomy -> Autumn_in_New_York
+	Autumn_in_New_York [label="Autumn_in_New_York
+{'Title': 'Autumn in New York', 'Worldwide Earnings': 90726668, 'Domestic Earnings': 37761915, 'Domestic Percent Earnings': 41.6, 'Foreign Earnings': 52964753, 'Foreign Percent Earnings': 58.4, 'Year': 2000}"]
+	Autumn_in_New_York -> "Après_Vous"
+	"Après_Vous" [label="Après_Vous
+{'Title': 'Après Vous', 'Worldwide Earnings': 8852763, 'Domestic Earnings': 830292, 'Domestic Percent Earnings': 9.4, 'Foreign Earnings': 8022471, 'Foreign Percent Earnings': 90.6, 'Year': 2003}"]
+	"Après_Vous" -> Another_Public_Enemy
+	"Après_Vous" -> "Asterix_&_Obelix__Mission_Cleo..."
+	Autumn_in_New_York -> Battlefield_Earth
+	Battlefield_Earth [label="Battlefield_Earth
+{'Title': 'Battlefield Earth', 'Worldwide Earnings': 29725663, 'Domestic Earnings': 21471685, 'Domestic Percent Earnings': 72.2, 'Foreign Earnings': 8253978, 'Foreign Percent Earnings': 27.8, 'Year': 2000}"]
+	Battlefield_Earth -> Bad_Company
+	Battlefield_Earth -> Bedazzled
+	Big_Momma_s_House -> Chicken_Run
+	Chicken_Run [label="Chicken_Run
+{'Title': 'Chicken Run', 'Worldwide Earnings': 224834564, 'Domestic Earnings': 106834564, 'Domestic Percent Earnings': 47.5, 'Foreign Earnings': 118000000, 'Foreign Percent Earnings': 52.5, 'Year': 2000}"]
+	Chicken_Run -> Brotherhood_of_the_Wolf
+	Brotherhood_of_the_Wolf [label="Brotherhood_of_the_Wolf
+{'Title': 'Brotherhood of the Wolf', 'Worldwide Earnings': 70752904, 'Domestic Earnings': 11260096, 'Domestic Percent Earnings': 15.9, 'Foreign Earnings': 59492808, 'Foreign Percent Earnings': 84.1, 'Year': 2001}"]
+	Brotherhood_of_the_Wolf -> Boiler_Room
+	Boiler_Room [label="Boiler_Room
+{'Title': 'Boiler Room', 'Worldwide Earnings': 28780255, 'Domestic Earnings': 16970581, 'Domestic Percent Earnings': 59.0, 'Foreign Earnings': 11809674, 'Foreign Percent Earnings': 41.0, 'Year': 2000}"]
+	Boiler_Room -> Bless_the_Child
+	Boiler_Room -> Bread_and_Tulips
+	Brotherhood_of_the_Wolf -> Cast_Away
+	Cast_Away [label="Cast_Away
+{'Title': 'Cast Away', 'Worldwide Earnings': 429632142, 'Domestic Earnings': 233632142, 'Domestic Percent Earnings': 54.4, 'Foreign Earnings': 196000000, 'Foreign Percent Earnings': 45.6, 'Year': 2000}"]
+	Cast_Away -> Calendar_Girls
+	Cast_Away -> Charlie_s_Angels
+	Chicken_Run -> Dancer_in_the_Dark
+	Dancer_in_the_Dark [label="Dancer_in_the_Dark
+{'Title': 'Dancer in the Dark', 'Worldwide Earnings': 40031879, 'Domestic Earnings': 4184036, 'Domestic Percent Earnings': 10.5, 'Foreign Earnings': 35847843, 'Foreign Percent Earnings': 89.5, 'Year': 2000}"]
+	Dancer_in_the_Dark -> Coyote_Ugly
+	Coyote_Ugly [label="Coyote_Ugly
+{'Title': 'Coyote Ugly', 'Worldwide Earnings': 113916474, 'Domestic Earnings': 60786269, 'Domestic Percent Earnings': 53.4, 'Foreign Earnings': 53130205, 'Foreign Percent Earnings': 46.6, 'Year': 2000}"]
+	Coyote_Ugly -> Collateral_Damage
+	Coyote_Ugly -> Crouching_Tiger_Hidden_Dragon
+	Dancer_in_the_Dark -> Der_Wixxer
+	Der_Wixxer [label="Der_Wixxer
+{'Title': 'Der Wixxer', 'Worldwide Earnings': 13607165, 'Domestic Earnings': 0, 'Domestic Percent Earnings': 0.0, 'Foreign Earnings': 13607165, 'Foreign Percent Earnings': 100.0, 'Year': 2004}"]
+	Der_Wixxer -> Dead_Weight
+	Der_Wixxer -> "Detective_Conan__The_Phantom_o..."
+	Dinosaur -> How_the_Grinch_Stole_Christmas
+	How_the_Grinch_Stole_Christmas [label="How_the_Grinch_Stole_Christmas
+{'Title': 'How the Grinch Stole Christmas', 'Worldwide Earnings': 345842198, 'Domestic Earnings': 260745620, 'Domestic Percent Earnings': 75.4, 'Foreign Earnings': 85096578, 'Foreign Percent Earnings': 24.6, 'Year': 2000}"]
+	How_the_Grinch_Stole_Christmas -> Gladiator
+	Gladiator [label="Gladiator
+{'Title': 'Gladiator', 'Worldwide Earnings': 460583960, 'Domestic Earnings': 187705427, 'Domestic Percent Earnings': 40.8, 'Foreign Earnings': 272878533, 'Foreign Percent Earnings': 59.2, 'Year': 2000}"]
+	Gladiator -> Fantasia_2000
+	Fantasia_2000 [label="Fantasia_2000
+{'Title': 'Fantasia 2000', 'Worldwide Earnings': 90874570, 'Domestic Earnings': 60655420, 'Domestic Percent Earnings': 66.7, 'Foreign Earnings': 30219150, 'Foreign Percent Earnings': 33.3, 'Year': 2000}"]
+	Fantasia_2000 -> East_Is_East
+	East_Is_East [label="East_Is_East
+{'Title': 'East Is East', 'Worldwide Earnings': 4177818, 'Domestic Earnings': 4177818, 'Domestic Percent Earnings': 100.0, 'Foreign Earnings': 0, 'Foreign Percent Earnings': 0.0, 'Year': 2000}"]
+	East_Is_East -> "Dr._T_&_the_Women"
+	East_Is_East -> Erin_Brockovich
+	Fantasia_2000 -> Frequency
+	Frequency [label="Frequency
+{'Title': 'Frequency', 'Worldwide Earnings': 68106245, 'Domestic Earnings': 45010278, 'Domestic Percent Earnings': 66.1, 'Foreign Earnings': 23095967, 'Foreign Percent Earnings': 33.9, 'Year': 2000}"]
+	Frequency -> Flickering_Lights
+	Frequency -> Garden_State
+	Gladiator -> Hanging_Up
+	Hanging_Up [label="Hanging_Up
+{'Title': 'Hanging Up', 'Worldwide Earnings': 51880044, 'Domestic Earnings': 36050230, 'Domestic Percent Earnings': 69.5, 'Foreign Earnings': 15829814, 'Foreign Percent Earnings': 30.5, 'Year': 2000}"]
+	Hanging_Up -> Gossip
+	Gossip [label="Gossip
+{'Title': 'Gossip', 'Worldwide Earnings': 12591270, 'Domestic Earnings': 5108820, 'Domestic Percent Earnings': 40.6, 'Foreign Earnings': 7482450, 'Foreign Percent Earnings': 59.4, 'Year': 2000}"]
+	Gossip -> "Godzilla__Tokyo_S.O.S."
+	Gossip -> Gun_Shy
+	Hanging_Up -> Here_on_Earth
+	Here_on_Earth [label="Here_on_Earth
+{'Title': 'Here on Earth', 'Worldwide Earnings': 10873148, 'Domestic Earnings': 10522168, 'Domestic Percent Earnings': 96.8, 'Foreign Earnings': 350980, 'Foreign Percent Earnings': 3.2, 'Year': 2000}"]
+	Here_on_Earth -> Haunted_Castle
+	Here_on_Earth -> Honey
+	How_the_Grinch_Stole_Christmas -> Keeping_the_Faith
+	Keeping_the_Faith [label="Keeping_the_Faith
+{'Title': 'Keeping the Faith', 'Worldwide Earnings': 59945183, 'Domestic Earnings': 37047880, 'Domestic Percent Earnings': 61.8, 'Foreign Earnings': 22897303, 'Foreign Percent Earnings': 38.2, 'Year': 2000}"]
+	Keeping_the_Faith -> Italian_for_Beginners
+	Italian_for_Beginners [label="Italian_for_Beginners
+{'Title': 'Italian for Beginners', 'Worldwide Earnings': 16349568, 'Domestic Earnings': 4544753, 'Domestic Percent Earnings': 27.8, 'Foreign Earnings': 11804815, 'Foreign Percent Earnings': 72.2, 'Year': 2000}"]
+	Italian_for_Beginners -> In_the_Mood_for_Love
+	In_the_Mood_for_Love [label="In_the_Mood_for_Love
+{'Title': 'In the Mood for Love', 'Worldwide Earnings': 12854953, 'Domestic Earnings': 2738980, 'Domestic Percent Earnings': 21.3, 'Foreign Earnings': 10115973, 'Foreign Percent Earnings': 78.7, 'Year': 2000}"]
+	In_the_Mood_for_Love -> Ice_Age
+	In_the_Mood_for_Love -> Insomnia
+	Italian_for_Beginners -> Joe_Somebody
+	Joe_Somebody [label="Joe_Somebody
+{'Title': 'Joe Somebody', 'Worldwide Earnings': 24516772, 'Domestic Earnings': 22771646, 'Domestic Percent Earnings': 92.9, 'Foreign Earnings': 1745126, 'Foreign Percent Earnings': 7.1, 'Year': 2001}"]
+	Joe_Somebody -> Jay_and_Silent_Bob_Strike_Back
+	Joe_Somebody -> Jurassic_Park_III
+	Keeping_the_Faith -> Lost_Souls
+	Lost_Souls [label="Lost_Souls
+{'Title': 'Lost Souls', 'Worldwide Earnings': 31355910, 'Domestic Earnings': 16815253, 'Domestic Percent Earnings': 53.6, 'Foreign Earnings': 14540657, 'Foreign Percent Earnings': 46.4, 'Year': 2000}"]
+	Lost_Souls -> Left_Luggage
+	Left_Luggage [label="Left_Luggage
+{'Title': 'Left Luggage', 'Worldwide Earnings': 2111280, 'Domestic Earnings': 1069540, 'Domestic Percent Earnings': 50.7, 'Foreign Earnings': 1041740, 'Foreign Percent Earnings': 49.3, 'Year': 2000}"]
+	Left_Luggage -> Kung_Pow__Enter_the_Fist
+	Left_Luggage -> Like_Mike
+	Lost_Souls -> "Master_and_Commander__The_Far_..."
+	"Master_and_Commander__The_Far_..." [label="Master_and_Commander__The_Far_...
+{'Title': 'Master and Commander: The Far Side of the World', 'Worldwide Earnings': 211622535, 'Domestic Earnings': 93927920, 'Domestic Percent Earnings': 44.4, 'Foreign Earnings': 117694615, 'Foreign Percent Earnings': 55.6, 'Year': 2003}"]
+	"Master_and_Commander__The_Far_..." -> Malena
+	"Master_and_Commander__The_Far_..." -> Memento
+	Mission__Impossible_II -> The_Emperor_s_New_Groove
+	The_Emperor_s_New_Groove [label="The_Emperor_s_New_Groove
+{'Title': \"The Emperor's New Groove\", 'Worldwide Earnings': 169327687, 'Domestic Earnings': 89302687, 'Domestic Percent Earnings': 52.7, 'Foreign Earnings': 80025000, 'Foreign Percent Earnings': 47.3, 'Year': 2000}"]
+	The_Emperor_s_New_Groove -> Scream_3
+	Scream_3 [label="Scream_3
+{'Title': 'Scream 3', 'Worldwide Earnings': 161834276, 'Domestic Earnings': 89143175, 'Domestic Percent Earnings': 55.1, 'Foreign Earnings': 72691101, 'Foreign Percent Earnings': 44.9, 'Year': 2000}"]
+	Scream_3 -> "Pokémon_the_Movie_2000"
+	"Pokémon_the_Movie_2000" [label="Pokémon_the_Movie_2000
+{'Title': 'Pokémon the Movie 2000', 'Worldwide Earnings': 133949270, 'Domestic Earnings': 43758684, 'Domestic Percent Earnings': 32.7, 'Foreign Earnings': 90190586, 'Foreign Percent Earnings': 67.3, 'Year': 2000}"]
+	"Pokémon_the_Movie_2000" -> "O_Brother_Where_Art_Thou?"
+	"O_Brother_Where_Art_Thou?" [label="O_Brother_Where_Art_Thou?
+{'Title': 'O Brother Where Art Thou?', 'Worldwide Earnings': 71868327, 'Domestic Earnings': 45512588, 'Domestic Percent Earnings': 63.3, 'Foreign Earnings': 26355739, 'Foreign Percent Earnings': 36.7, 'Year': 2000}"]
+	"O_Brother_Where_Art_Thou?" -> Napoleon_Dynamite
+	Napoleon_Dynamite [label="Napoleon_Dynamite
+{'Title': 'Napoleon Dynamite', 'Worldwide Earnings': 46118097, 'Domestic Earnings': 44540956, 'Domestic Percent Earnings': 96.6, 'Foreign Earnings': 1577141, 'Foreign Percent Earnings': 3.4, 'Year': 2004}"]
+	Napoleon_Dynamite -> My_Big_Fat_Greek_Wedding
+	Napoleon_Dynamite -> Next_Friday
+	"O_Brother_Where_Art_Thou?" -> "Palais_royal!"
+	"Palais_royal!" [label="Palais_royal!
+{'Title': 'Palais royal!', 'Worldwide Earnings': 17612135, 'Domestic Earnings': 0, 'Domestic Percent Earnings': 0.0, 'Foreign Earnings': 17612135, 'Foreign Percent Earnings': 100.0, 'Year': 2005}"]
+	"Palais_royal!" -> Ong0Bak__The_Thai_Warrior
+	"Palais_royal!" -> Pay_It_Forward
+	"Pokémon_the_Movie_2000" -> Remember_the_Titans
+	Remember_the_Titans [label="Remember_the_Titans
+{'Title': 'Remember the Titans', 'Worldwide Earnings': 136706683, 'Domestic Earnings': 115654751, 'Domestic Percent Earnings': 84.6, 'Foreign Earnings': 21051932, 'Foreign Percent Earnings': 15.4, 'Year': 2000}"]
+	Remember_the_Titans -> Punch0Drunk_Love
+	Punch0Drunk_Love [label="Punch0Drunk_Love
+{'Title': 'Punch0Drunk Love', 'Worldwide Earnings': 24665649, 'Domestic Earnings': 17844216, 'Domestic Percent Earnings': 72.3, 'Foreign Earnings': 6821433, 'Foreign Percent Earnings': 27.7, 'Year': 2002}"]
+	Punch0Drunk_Love -> Possession
+	Punch0Drunk_Love -> Rat_Race
+	Remember_the_Titans -> Rugrats_in_Paris
+	Rugrats_in_Paris [label="Rugrats_in_Paris
+{'Title': 'Rugrats in Paris', 'Worldwide Earnings': 103291131, 'Domestic Earnings': 76507756, 'Domestic Percent Earnings': 74.1, 'Foreign Earnings': 26783375, 'Foreign Percent Earnings': 25.9, 'Year': 2000}"]
+	Rugrats_in_Paris -> Road_Trip
+	Rugrats_in_Paris -> Sahara
+	Scream_3 -> Supernova
+	Supernova [label="Supernova
+{'Title': 'Supernova', 'Worldwide Earnings': 14828081, 'Domestic Earnings': 14230455, 'Domestic Percent Earnings': 96.0, 'Foreign Earnings': 597626, 'Foreign Percent Earnings': 4.0, 'Year': 2000}"]
+	Supernova -> Space_Cowboys
+	Space_Cowboys [label="Space_Cowboys
+{'Title': 'Space Cowboys', 'Worldwide Earnings': 128884132, 'Domestic Earnings': 90464773, 'Domestic Percent Earnings': 70.2, 'Foreign Earnings': 38419359, 'Foreign Percent Earnings': 29.8, 'Year': 2000}"]
+	Space_Cowboys -> "Sinbad__Legend_of_the_Seven_Se..."
+	"Sinbad__Legend_of_the_Seven_Se..." [label="Sinbad__Legend_of_the_Seven_Se...
+{'Title': 'Sinbad: Legend of the Seven Seas', 'Worldwide Earnings': 80773077, 'Domestic Earnings': 26483452, 'Domestic Percent Earnings': 32.8, 'Foreign Earnings': 54289625, 'Foreign Percent Earnings': 67.2, 'Year': 2003}"]
+	"Sinbad__Legend_of_the_Seven_Se..." -> Shanghai_Noon
+	"Sinbad__Legend_of_the_Seven_Se..." -> Snatch
+	Space_Cowboys -> State_and_Main
+	State_and_Main [label="State_and_Main
+{'Title': 'State and Main', 'Worldwide Earnings': 9206279, 'Domestic Earnings': 6944471, 'Domestic Percent Earnings': 75.4, 'Foreign Earnings': 2261808, 'Foreign Percent Earnings': 24.6, 'Year': 2000}"]
+	State_and_Main -> Spy_Kids
+	State_and_Main -> Stormy_Night
+	Supernova -> The_Cell
+	The_Cell [label="The_Cell
+{'Title': 'The Cell', 'Worldwide Earnings': 104155843, 'Domestic Earnings': 61334059, 'Domestic Percent Earnings': 58.9, 'Foreign Earnings': 42821784, 'Foreign Percent Earnings': 41.1, 'Year': 2000}"]
+	The_Cell -> The_Art_of_War
+	The_Art_of_War [label="The_Art_of_War
+{'Title': 'The Art of War', 'Worldwide Earnings': 40400425, 'Domestic Earnings': 30208599, 'Domestic Percent Earnings': 74.8, 'Foreign Earnings': 10191826, 'Foreign Percent Earnings': 25.2, 'Year': 2000}"]
+	The_Art_of_War -> Tanguy
+	The_Art_of_War -> The_Bourne_Identity
+	The_Cell -> The_Crew
+	The_Crew [label="The_Crew
+{'Title': 'The Crew', 'Worldwide Earnings': 13105853, 'Domestic Earnings': 13023075, 'Domestic Percent Earnings': 99.4, 'Foreign Earnings': 82778, 'Foreign Percent Earnings': 0.6, 'Year': 2000}"]
+	The_Crew -> The_Closet
+	The_Crew -> The_Deep_End
+	The_Emperor_s_New_Groove -> The_Perfect_Storm
+	The_Perfect_Storm [label="The_Perfect_Storm
+{'Title': 'The Perfect Storm', 'Worldwide Earnings': 328718434, 'Domestic Earnings': 182618434, 'Domestic Percent Earnings': 55.6, 'Foreign Earnings': 146100000, 'Foreign Percent Earnings': 44.4, 'Year': 2000}"]
+	The_Perfect_Storm -> The_House_of_Mirth
+	The_House_of_Mirth [label="The_House_of_Mirth
+{'Title': 'The House of Mirth', 'Worldwide Earnings': 5164404, 'Domestic Earnings': 3043284, 'Domestic Percent Earnings': 58.9, 'Foreign Earnings': 2121120, 'Foreign Percent Earnings': 41.1, 'Year': 2000}"]
+	The_House_of_Mirth -> The_Girl_on_the_Bridge
+	The_Girl_on_the_Bridge [label="The_Girl_on_the_Bridge
+{'Title': 'The Girl on the Bridge', 'Worldwide Earnings': 1708839, 'Domestic Earnings': 1708839, 'Domestic Percent Earnings': 100.0, 'Foreign Earnings': 0, 'Foreign Percent Earnings': 0.0, 'Year': 2000}"]
+	The_Girl_on_the_Bridge -> "The_Flintstones_in_Viva_Rock_V..."
+	"The_Flintstones_in_Viva_Rock_V..." [label="The_Flintstones_in_Viva_Rock_V...
+{'Title': 'The Flintstones in Viva Rock Vegas', 'Worldwide Earnings': 59468275, 'Domestic Earnings': 35268275, 'Domestic Percent Earnings': 59.3, 'Foreign Earnings': 24200000, 'Foreign Percent Earnings': 40.7, 'Year': 2000}"]
+	"The_Flintstones_in_Viva_Rock_V..." -> The_Family_Man
+	"The_Flintstones_in_Viva_Rock_V..." -> The_Fox_and_the_Child
+	The_Girl_on_the_Bridge -> The_Guru
+	The_Guru [label="The_Guru
+{'Title': 'The Guru', 'Worldwide Earnings': 24128852, 'Domestic Earnings': 3095506, 'Domestic Percent Earnings': 12.8, 'Foreign Earnings': 21033346, 'Foreign Percent Earnings': 87.2, 'Year': 2002}"]
+	The_Guru -> The_Gospel
+	The_Guru -> The_Hills_Have_Eyes
+	The_House_of_Mirth -> The_Legend_of_Bagger_Vance
+	The_Legend_of_Bagger_Vance [label="The_Legend_of_Bagger_Vance
+{'Title': 'The Legend of Bagger Vance', 'Worldwide Earnings': 39459427, 'Domestic Earnings': 30919168, 'Domestic Percent Earnings': 78.4, 'Foreign Earnings': 8540259, 'Foreign Percent Earnings': 21.6, 'Year': 2000}"]
+	The_Legend_of_Bagger_Vance -> The_Italian_Job
+	The_Italian_Job [label="The_Italian_Job
+{'Title': 'The Italian Job', 'Worldwide Earnings': 176070171, 'Domestic Earnings': 106128601, 'Domestic Percent Earnings': 60.3, 'Foreign Earnings': 69941570, 'Foreign Percent Earnings': 39.7, 'Year': 2003}"]
+	The_Italian_Job -> "The_Importance_of_Being_Earnes..."
+	The_Italian_Job -> The_Last_Castle
+	The_Legend_of_Bagger_Vance -> The_Mexican
+	The_Mexican [label="The_Mexican
+{'Title': 'The Mexican', 'Worldwide Earnings': 147845033, 'Domestic Earnings': 66845033, 'Domestic Percent Earnings': 45.2, 'Foreign Earnings': 81000000, 'Foreign Percent Earnings': 54.8, 'Year': 2001}"]
+	The_Mexican -> The_Majestic
+	The_Mexican -> The_Next_Best_Thing
+	The_Perfect_Storm -> Traffic
+	Traffic [label="Traffic
+{'Title': 'Traffic', 'Worldwide Earnings': 207515725, 'Domestic Earnings': 124115725, 'Domestic Percent Earnings': 59.8, 'Foreign Earnings': 83400000, 'Foreign Percent Earnings': 40.2, 'Year': 2000}"]
+	Traffic -> The_Tigger_Movie
+	The_Tigger_Movie [label="The_Tigger_Movie
+{'Title': 'The Tigger Movie', 'Worldwide Earnings': 96159800, 'Domestic Earnings': 45554533, 'Domestic Percent Earnings': 47.4, 'Foreign Earnings': 50605267, 'Foreign Percent Earnings': 52.6, 'Year': 2000}"]
+	The_Tigger_Movie -> The_Road_to_El_Dorado
+	The_Road_to_El_Dorado [label="The_Road_to_El_Dorado
+{'Title': 'The Road to El Dorado', 'Worldwide Earnings': 76432727, 'Domestic Earnings': 50863742, 'Domestic Percent Earnings': 66.5, 'Foreign Earnings': 25568985, 'Foreign Percent Earnings': 33.5, 'Year': 2000}"]
+	The_Road_to_El_Dorado -> The_Princess_Diaries
+	The_Road_to_El_Dorado -> The_Skulls
+	The_Tigger_Movie -> The_Whole_Nine_Yards
+	The_Whole_Nine_Yards [label="The_Whole_Nine_Yards
+{'Title': 'The Whole Nine Yards', 'Worldwide Earnings': 106371651, 'Domestic Earnings': 57262492, 'Domestic Percent Earnings': 53.8, 'Foreign Earnings': 49109159, 'Foreign Percent Earnings': 46.2, 'Year': 2000}"]
+	The_Whole_Nine_Yards -> The_Upside_of_Anger
+	The_Whole_Nine_Yards -> Thomas_and_the_Magic_Railroad
+	Traffic -> What_Lies_Beneath
+	What_Lies_Beneath [label="What_Lies_Beneath
+{'Title': 'What Lies Beneath', 'Worldwide Earnings': 291420351, 'Domestic Earnings': 155464351, 'Domestic Percent Earnings': 53.3, 'Foreign Earnings': 135956000, 'Foreign Percent Earnings': 46.7, 'Year': 2000}"]
+	What_Lies_Beneath -> Urban_Legends__Final_Cut
+	Urban_Legends__Final_Cut [label="Urban_Legends__Final_Cut
+{'Title': 'Urban Legends: Final Cut', 'Worldwide Earnings': 38574362, 'Domestic Earnings': 21468807, 'Domestic Percent Earnings': 55.7, 'Foreign Earnings': 17105555, 'Foreign Percent Earnings': 44.3, 'Year': 2000}"]
+	Urban_Legends__Final_Cut -> Unbreakable
+	Urban_Legends__Final_Cut -> Walking_Tall
+	What_Lies_Beneath -> Woman_on_Top
+	Woman_on_Top [label="Woman_on_Top
+{'Title': 'Woman on Top', 'Worldwide Earnings': 10194274, 'Domestic Earnings': 5020111, 'Domestic Percent Earnings': 49.2, 'Foreign Earnings': 5174163, 'Foreign Percent Earnings': 50.8, 'Year': 2000}"]
+	Woman_on_Top -> "Widow_of_St._Pierre"
+	Woman_on_Top -> You_Can_Count_on_Me
+}
