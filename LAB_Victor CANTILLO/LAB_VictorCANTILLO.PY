@@ -226,13 +226,13 @@ for index, row in df.iterrows():
 
 render_tree(avl_tree, 'avl_tree_initial')
 
-# Buscar un nodo en el árbol AVL
+#  seleccionar un nodo del dataset para buscarlo e introducirlo del árbol AVL
 search_key = "Minions"
 found_node = avl_tree.search_node(search_key)
 if found_node:
     print(f"Película encontrada: {found_node.key}")
 
-# Eliminar un nodo del árbol AVL
+# seleccionar un nodo del dataset para eliminarlo del árbol AVL
 delete_key = "Furious 7"
 avl_tree.delete_node(delete_key)
 
@@ -274,7 +274,7 @@ def get_uncle(tree, key):
     else:
         print(f"El nodo '{key}' no tiene tío o no se encontró en el árbol.")
 
-
+#añadir el nodo que se quiere balancear y elegir los datos de abajo
 selected_node_key = "Minions"
 get_node_level(avl_tree, selected_node_key)
 get_balance_factor(avl_tree, selected_node_key)
